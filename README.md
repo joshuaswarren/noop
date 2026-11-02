@@ -384,3 +384,7 @@ use it at your own risk. Read the full notice in [`DISCLAIMER.md`](DISCLAIMER.md
 - [`ATTRIBUTION.md`](ATTRIBUTION.md) — full credits and licensing notes.
 - [`docs/DONATIONS.md`](docs/DONATIONS.md) — optional donation addresses (also in-app under **Support**).
 - [`project.yml`](project.yml) — XcodeGen project definition (source of `Strand.xcodeproj`).
+
+## Contributors
+
+Everyone credited so far: [CONTRIBUTORS.md](CONTRIBUTORS.md).
